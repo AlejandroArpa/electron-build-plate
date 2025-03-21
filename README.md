@@ -37,9 +37,9 @@ If TypeScript is not installed, install it with:
 npm install -g typescript
 ```
 ## Running the Development Server
-To start the project in development mode with Electron, use:
+To start the project in development mode, use:
 ```bash
-npm run dev:electron
+npm run dev
 ```
 ## Building for Production
 Compile the project according to your operating system:
